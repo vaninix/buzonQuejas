@@ -14,7 +14,7 @@ El proyecto fue desarrollado bajo una arquitectura MVC, utilizando Vue.js para e
 - API y Composition API
 - PHP
 - MySQL
-- XAMPP (Apache y MySQL)
+- XAMPP (Apache y MySQL) 
 - Vite
 
 # Gestión de administradores
